@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employeeList>
+    <lst>
+        <department>Franz</department>
+        <extension>123-09</extension>
+        <name>Francisco</name>
+    </lst>
+</employeeList>
